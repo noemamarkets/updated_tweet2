@@ -27,7 +27,7 @@
 const tweets = [
   {
     handle: "@DefiWimar",
-    text: "🚨 BREAKING
+    text: "BREAKING
 
 THE NEXT FED CHAIR HASSETT JUST CONFIRMED HE WOULD SUPPORT A 50 BPS RATE CUT TOMORROW.
 
