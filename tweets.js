@@ -26,10 +26,10 @@
 
 const tweets = [
   {
-    handle: "@elonmusk",
-    text: "Tesla production hitting new records. Q4 looking strong.",
-    timestamp: "2025-12-08T14:30:00",
-    url: "https://x.com/elonmusk/status/1865517692858212609"
+    handle: "@StockMKTNewz",
+    text: "Citi today raised its price target on Apple $AAPL up to $330 from $315 while maintaining its Buy rating",
+    timestamp: "2025-12-09T8:13:00",
+    url: "https://x.com/StockMKTNewz/status/1998395631849586755?s=20"
   },
   {
     handle: "@unusual_whales",
