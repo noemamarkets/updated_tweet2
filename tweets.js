@@ -26,16 +26,16 @@
 
 const tweets = [
   {
-    handle: "@DefiWimar",
-    text: "BREAKING. THE NEXT FED CHAIR HASSETT JUST CONFIRMED HE WOULD SUPPORT A 50 BPS RATE CUT TOMORROW.LOOKS LIKE THE FUTURE FED CHAIR WILL MOVE FASTER THAN POWELL.GIGA BULLISH FOR MARKETS!",
+    handle: "@unusual_whales",
+    text: "China's DeepSeek is using its banned Nvidia, $NVDA, Blackwell AI chips. $NVDA has refuted the report.",
     timestamp: "2025-12-09T8:13:00",
-    url: "https://x.com/StockMKTNewz/status/1998395631849586755?s=20"
+    url: "https://x.com/unusual_whales/status/1998773502921371899?s=46s=20"
   },
   {
-    handle: "@zerohedge",
-    text: "*JPMORGAN SHARES TURN NEGATIVE AS MGMT SPEAKS AT GOLDMAN CONF",
+    handle: "@StockMKTNewz",
+    text: "Apple $AAPL said today that ChatGPT was the most downloaded app on its app store in 2025 - Tech Crunch",
     timestamp: "2025-12-08T13:45:00",
-    url: "https://x.com/defiwimar/status/1998402634768617922?s=46s=46"
+    url: "https://x.com/stockmktnewz/status/1998775904797884640?s=46s=46s=46"
   },
   {
     handle: "@StockSavvyShay",
