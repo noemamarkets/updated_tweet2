@@ -39,7 +39,7 @@ const tweets = [
   },
   {
     handle: "@zerohedge",
-    text: "Timiraos: “As many as five of the 12 voting members of the Fed’s policy committee, and 10 of all 19 members, have signaled in speeches or public interviews that they didn’t see a strong case to cut. Of those, only one formally dissented from the central bank’s decision to cut rates in October."Polymarket has 4+ dissents at 22%",
+    text: "Timiraos: “As many as five of the 12 voting members of the Fed’s policy committee, and 10 of all 19 members, have signaled in speeches or public interviews that they didn’t see a strong case to cut. Of those, only one formally dissented from the central bank’s decision to cut rates in October."Polymarket has 4+ dissents at 22%"",
     timestamp: "2025-12-08T13:15:00",
     url: "https://x.com/zerohedge/status/1998788457255055637?s=46s=46"
   },
