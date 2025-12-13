@@ -9,7 +9,7 @@ Your financial news platform at [noema.financial](https://noema.financial)
 **What You Enter:**
 - Handle (copy from tweet)
 - Text (copy from tweet)  
-- Timestamp (current time)
+- Timestamp
 - URL (copy link)
 
 **What Happens Automatically:**
